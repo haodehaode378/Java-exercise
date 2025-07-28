@@ -1,7 +1,7 @@
 /*
 package chuangjian.demo01;
 import java.util.Scanner;
-public class Jianpanshuru {
+public class 键盘输入 {
     public static void main(String[] args)
     {
 

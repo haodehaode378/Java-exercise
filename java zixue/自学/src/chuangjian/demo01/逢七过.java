@@ -1,7 +1,7 @@
 /*
 package chuangjian.demo01;
 
-public class fengqiguo {
+public class 逢七过 {
 
     public static void main(String[] args) {
 

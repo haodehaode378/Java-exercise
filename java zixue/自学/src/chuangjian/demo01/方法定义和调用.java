@@ -1,7 +1,7 @@
 /*
 package chuangjian.demo01;
 
-public class fangfadinyihediaoyong {
+public class 方法定义和调用 {
 
     public static void playGame(){
         System.out.println("开始游戏");

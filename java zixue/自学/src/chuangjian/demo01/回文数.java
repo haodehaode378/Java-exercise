@@ -1,7 +1,7 @@
 /*
 package chuangjian.demo01;
 
-public class huiwenshu {
+public class 回文数 {
     // ... existing code ...
     public static void main(String[] args) {
         int x = 12345;
@@ -16,4 +16,5 @@ public class huiwenshu {
         System.out.println(result);
     }
 
-}*/
+}
+*/

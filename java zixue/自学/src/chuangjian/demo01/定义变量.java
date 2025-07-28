@@ -1,7 +1,7 @@
 /*
 package chuangjian.demo01;
 
-public class Dingyibianliangdesandaoti {
+public class 定义变量 {
 
      {
         //定义变量记录姓名

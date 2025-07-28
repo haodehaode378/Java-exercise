@@ -3,19 +3,9 @@ package chuangjian.demo01;
 
 import java.util.Scanner;
 
-*/
-/**
-// * 该类用于从键盘输入两个数字并计算它们的和。
- *//*
 
-public class Jianpanshurushuzibingqiuhe {
+public class 键盘输入并求和 {
 
-    */
-/**
-     * 程序的入口点，该方法负责从控制台读取两个整数并计算它们的和。
-     *
-     * @param args 命令行参数，在本程序中未使用。
-     *//*
 
     public static void main(String[] args)
     {
